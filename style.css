@@ -31,6 +31,5 @@ p {
 header {
     position: sticky;
     top: 0;
-    background: #e3e3e3ef;
-    margin: 0;
+    background: solid #e3e3e3ef;
 }
