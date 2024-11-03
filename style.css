@@ -32,5 +32,8 @@ header {
     position: sticky;
     top: 0;
     background: #e3e3e3ef;
-    padding: -40px;
+}
+
+.contact-form {
+    display: flex;
 }
